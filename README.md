@@ -1,4 +1,3 @@
-gentoo-bootstrap
+gentoo-identity-bootstrap
 ================
-
-Generic Gentoo Bootstrap theme
+static media files for identity.gentoo.org

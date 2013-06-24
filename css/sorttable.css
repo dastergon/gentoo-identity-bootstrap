@@ -1,0 +1,6 @@
+
+/* Sortable tables */
+table.sortable thead {
+    font-weight: bold;
+    cursor: default;
+}
