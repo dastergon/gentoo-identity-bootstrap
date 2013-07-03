@@ -5055,3 +5055,7 @@ pre {
 .invisible {
   visibility: hidden;
 }
+
+.devname {
+	color: #5c4f85;
+}
